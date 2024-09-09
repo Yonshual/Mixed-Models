@@ -1,0 +1,1 @@
+This repository contains information related to the use of mixed models to analice data in agricultural research. Also, there are informtation related to the use of variance functions to resolve the heterocedasticity problem.
